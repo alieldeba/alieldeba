@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my Personal Portfolio
-- 🌱 I’m currently learning Php & Laravel
-- 👯 I’m looking to collaborate on small frontEnd projects
-- 💬 Ask me about FronEnd dev
-- 📫 How to reach me: alieldeba@gmail.com
+- 🔭 I’m currently working on my personal portfolio
+- 🌱 I’m currently learning php & laravel
+- 👯 I’m looking to collaborate to small frontend projects
+- 💬 Ask me about fronend development
+- 📫 Reach me on: alieldeba@gmail.com
