@@ -13,4 +13,15 @@
 - I Have 2 Years Of Experience !
 
 ### Languages That I Use
-### Technologies That I Use
+- HTML
+- CSS
+- JavaScript
+- Php
+- 
+### Programs That I Use
+- Photoshop
+
+### Reach Me At
+- Facebook (soon)
+- Linkedin (soon)
+- Twitter (soon)
