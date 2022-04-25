@@ -1,4 +1,4 @@
-### Hi there 👋
+### <center>Hi there 👋</center>
 
 - 🔭 I’m currently working on my personal portfolio
 - 🌱 I’m currently learning php & laravel
@@ -7,3 +7,5 @@
 - 📫 Reach me on: alieldeba@gmail.com
 
 ### About me
+### Languages That I Use
+### Technologies That I Use
