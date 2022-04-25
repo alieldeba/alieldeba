@@ -33,4 +33,4 @@
 - stackOverFlow (Soon)
 - Gmail (Soon)
 
-### Achivements (Soon)
+### Achivements (Comming Soon)
