@@ -7,6 +7,10 @@
 - 📫 Reach me on: alieldeba@gmail.com
 
 ### About Me
-- 
+- My Name is Ali Eldeba,
+- I'm 15 Years Old
+- I'm a Proffesional Web Developer
+- I Have 2 Years Of Experience !
+
 ### Languages That I Use
 ### Technologies That I Use
