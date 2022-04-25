@@ -1,4 +1,4 @@
-<center> ### Hi there 👋 </center>
+<p style="text-align: center;"> Hi there 👋 </center>
 
 - 🔭 I’m currently working on my personal portfolio
 - 🌱 I’m currently learning php & laravel
