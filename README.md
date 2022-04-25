@@ -1,4 +1,4 @@
-# <p align="center">-_-_- Hi there 👋 -_-_-</p>
+# <p align="center">-_-_- _Hi there 👋_ -_-_-</p>
 
 <!--
 - 🔭 I’m currently working on my personal portfolio
