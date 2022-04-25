@@ -24,9 +24,10 @@
 - Adobe XD
 
 ### Reach Me At
-- Facebook (soon)
-- Linkedin (soon)
-- Twitter (soon)
-- stackOverFlow (soon)
+- Facebook (Soon)
+- Linkedin (Soon)
+- Twitter (Soon)
+- stackOverFlow (Soon)
+- Gmail (Soon)
 
 ### Achivements
