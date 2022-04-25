@@ -19,8 +19,9 @@
 - Php
 
 ### Programs That I Use
-- Photoshop
 - Visual Studio Code (VS Code)
+- Adobe Photoshop
+- Adobe XD
 
 ### Reach Me At
 - Facebook (soon)
