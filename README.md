@@ -1,4 +1,4 @@
-<h1 align="center"><i> - -- Hi there 👋 -- - </i></h1>
+# <p align="center"> -- - _Hi there 👋_ - -- </p>
 
 <!--
 - 🔭 I’m currently working on my personal portfolio
