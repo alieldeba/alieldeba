@@ -11,6 +11,7 @@
 ###  About Me
 - My Name is Ali Eldeba,
 - I'm 15 Years Old
+- I Live In Egypt
 - I'm a Proffesional Web Developer
 - I Have 2 Years Of Experience !
 
@@ -32,4 +33,4 @@
 - stackOverFlow (Soon)
 - Gmail (Soon)
 
-### Achivements
+### Achivements (Soon)
