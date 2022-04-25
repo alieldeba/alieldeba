@@ -17,11 +17,15 @@
 - CSS
 - JavaScript
 - Php
-- 
+
 ### Programs That I Use
 - Photoshop
+- Visual Studio Code (VS Code)
 
 ### Reach Me At
 - Facebook (soon)
 - Linkedin (soon)
 - Twitter (soon)
+- stackOverFlow (soon)
+
+### Achivements
