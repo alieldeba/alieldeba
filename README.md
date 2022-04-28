@@ -36,7 +36,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> -->
 
-### Reach Me At
+### Reach Me
 - Facebook (Soon)
 - Linkedin (Soon)
 - Twitter (Soon)
