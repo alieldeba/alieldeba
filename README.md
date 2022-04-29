@@ -43,4 +43,7 @@
 - stackOverFlow (Soon)
 - Gmail (Soon)
 
-### Achivements (Comming Soon)
+### Achivements
+<span float="left">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-eldeba&show_icons=true&local=en&layout=compact"/>
+</span>
