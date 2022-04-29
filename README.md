@@ -47,4 +47,5 @@
 <span float="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-eldeba&show_icons=true&local=en&layout=compact"/>
    <img src="https://github-readme-stats.vercel.app/api?username=ali-eldeba&show_icons=true&locale=en"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-eldeba&"/>
 </span>
