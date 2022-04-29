@@ -1,7 +1,7 @@
 # <p align="center"> -- - _Hi there 👋_ - -- </p>
 
 <!--
-- 🔭 I’m currently working on my personal portfolio
+- 🔭 I’m currently working on Vue.js
 - 🌱 I’m currently learning php & laravel
 - 👯 I’m looking to collaborate to small frontend projects
 - 💬 Ask me about fronend development
