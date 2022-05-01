@@ -26,6 +26,7 @@
 ## Frameworks and Tools
 - Bootstrap
 - Sass
+- Gulp
 - Vue
 - Node
 
