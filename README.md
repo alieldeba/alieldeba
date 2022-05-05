@@ -1,4 +1,4 @@
-# <p align="center"> -- - _Hi there 👋_ - -- </p>
+# <p align="center"> -- - _Hi there 👋:_ - -- </p>
 
 <!--
 - 🔭 I’m currently working on Vue.js
@@ -8,10 +8,10 @@
 - 📫 Reach me on: alieldeba@gmail.com
 -->
 
-##  About Me
+##  About Me :nerd_face:
 - My Name is Ali Eldeba,
 - I'm 15 Years Old
-- I Live In Egypt :egypt:
+- I Live In Egypt 🇪🇬
 - I'm a Proffesional Web Developer :computer:
 - I Have More Than 1 Year Of Experience !
 
