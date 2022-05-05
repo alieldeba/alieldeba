@@ -44,7 +44,7 @@
 - stackOverFlow (Soon)
 - Gmail (Soon)
 
-## Achivements
+## Achivements 🌟
    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-eldeba&show_icons=true&local=en&layout=compact"/>
    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ali-eldeba&show_icons=true&locale=en"/>
    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-eldeba&"/>
