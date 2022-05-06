@@ -9,11 +9,11 @@
 -->
 
 ##  About Me 🤓
-- Ali Eldeba 
+- Ali Eldeba 📛
 - 15 Years Old 👶
 - Live In Egypt 🇪🇬
 - Proffesional Web Developer 💻
-- More Than 1 Year Of Experience !
+- More Than 1 Year Of Experience 💲
 
 ## Programming Languages 🖤
 <p align="left">
