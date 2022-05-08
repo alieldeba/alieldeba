@@ -27,8 +27,6 @@
 - Bootstrap
 - Sass
 - Gulp
-- Vue
-- Node
 
 ## Programs 🏷️
 <p align="left">
