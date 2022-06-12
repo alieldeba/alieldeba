@@ -11,11 +11,11 @@ Hi, I'm Ali Eldeba!
 Ali-Eldeba@github
 -------------------------
 💻 I am a self taught FrontEnd Developer
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
+📝 I have a strong interest in Web Development
+🔭 Working on Huge FronEnd Projects
+🌱 Learning about BackEnd
+🌟 Main languages: JavaScript
+🚩 Interested in Full Stack Web Development
 ```
 <hr>
 <h2>  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Github Stats </h2>
