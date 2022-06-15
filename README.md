@@ -7,7 +7,7 @@ Hi, I'm Ali Eldeba!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=junior+frontend+developer;basic+UI+designer;freelancer;&center=true&width=380&height=45"></a>
 </p>
 
-![profile views](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+![profile views](https://komarev.com/ghpvc/?username=Ali-Eldeba&style=for-the-badge)
 
 ```
 Ali-Eldeba@github
