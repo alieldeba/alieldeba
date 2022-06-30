@@ -13,7 +13,7 @@ Hi, I'm Ali Eldeba!
 
 ```
 Ali-Eldeba@github
--------------------------
+-----------------
 💻 I am a self taught FrontEnd Developer
 📝 I have a strong interest in Web Development
 🔭 Working on Huge FronEnd Projects
