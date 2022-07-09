@@ -22,7 +22,8 @@ alieldeba@github
 🚩 Interested in Full Stack Web Development
 ```
 <hr>
-<h2>  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Github Stats </h2>
+<h2> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif"> Github Stats </h2>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alieldeba&theme=monokai	)](https://github.com/alieldeba/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alieldeba&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alieldeba&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alieldeba&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alieldeba&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alieldeba&theme=monokai&utcOffset=8)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alieldeba&theme=react&hide_border=true)](https://git.io/streak-stats)
 
