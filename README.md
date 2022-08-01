@@ -13,7 +13,7 @@ Hi, i'm Ali Eldeba!
 
 ```
 alieldeba@github
------------------
+----------------
 💻 I am a self taught FrontEnd Developer
 📝 I have a strong interest in Web Development
 🔭 Working on Huge FronEnd Projects
@@ -60,7 +60,7 @@ alieldeba@github
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-2c292d?&style=for-the-badge&logo=spotify&logoColor=ffffff"></a>
 </p>
 <br>
-<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
+<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80">Contact me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-eldeba-8820a922b/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
    <a href="https://www.facebook.com/ali.eldiba.7/"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
