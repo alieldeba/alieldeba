@@ -4,7 +4,7 @@ Hi, i'm Ali Eldeba!
 
 <br/>
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+developer;Basic+UI+designer;Freelancer;&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+developer;Basic+UI/UX+designer;Freelancer;&center=true&width=380&height=45"></a>
 </p>
 
 ![profile views](https://komarev.com/ghpvc/?username=alieldeba&style=for-the-badge)
@@ -17,7 +17,7 @@ alieldeba@github
 💻 I am a self taught FrontEnd Developer
 📝 I have a strong interest in Web Development
 🔭 Working on Huge FronEnd Projects
-🌱 Learning about BackEnd
+🌱 Learning about UI/UX design
 🌟 Main languages: JavaScript
 🚩 Interested in Full Stack Web Development
 ```
@@ -41,7 +41,7 @@ alieldeba@github
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-2c292d?style=for-the-badge&logo=react&logoColor=ffffff"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-2c292d?style=for-the-badge&logo=bootstrap&logoColor=ffffff"></a>
-    <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-2c292d?style=for-the-badge&logo=tailwind&logoColor=ffffff"></a>
+    <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-2c292d?style=for-the-badge&logo=tailwindcss&logoColor=ffffff"></a>
 
 </p>
 
