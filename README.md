@@ -14,7 +14,7 @@ Hi, I'm Ali Eldeba!
 ```
 alieldeba@github
 ----------------
-💻 I am a self taught FrontEnd Developer
+💻 I am a self-taught FrontEnd Developer
 📝 I have a strong interest in Web Development
 🔭 Working on Huge FronEnd Projects
 🌱 Learning about UI/UX design
