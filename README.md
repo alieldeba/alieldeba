@@ -14,12 +14,12 @@ Hi, I'm Ali Eldeba!
 ```
 alieldeba@github
 ----------------
-💻 I am a self-taught FrontEnd Developer
+💻 I am a self-taught Full Stack Developer
 📝 I have a strong interest in Web Development
-🔭 Working on Huge FronEnd Projects
-🌱 Learning about UI/UX design
+🔭 Working on Huge Full Stack Projects
+🌱 Learning about Vue.js
 🌟 Main languages: JavaScript
-🚩 Interested in Full Stack Web Development
+🚩 Interested in Mobile Development
 ```
 <hr>
 <h2> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
