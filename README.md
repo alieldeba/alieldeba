@@ -17,7 +17,7 @@ alieldeba@github
 💻 I am a self-taught Full Stack Developer
 📝 I have a strong interest in Web Development
 🔭 Working on Huge Full Stack Projects
-🌱 Learning about Vue.js
+🌱 Learning about React Native
 🌟 Main languages: JavaScript
 🚩 Interested in Mobile Development
 ```
